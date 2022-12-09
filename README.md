@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+웹캠으로 본인의 모습에 따라, 화면을 통해 본인의 모습과 본인의 스켈레톤 모양인 관절을 볼 수 있다.
 
 ### `npm start`
 
